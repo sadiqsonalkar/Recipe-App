@@ -9,6 +9,6 @@ It will also display number of likes and if the recipe is vegan or cheap and man
 Last there is a food joke section that will fetch new joke related to food, every time you visit the food joke section while you are online. You can share your food joke to others too.
 
 # Software:
-	Android Studio
-	Spoonacular API Account
-  Kotlin
+•	Android Studio
+•	Spoonacular API Account
+•	Kotlin
